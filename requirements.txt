@@ -1,0 +1,13 @@
+livekit-agents
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+requests
+python-dotenv
+pywhatkit
+pytesseract
+Pillow
+pyautogui
+psutil
+duckduckgo-search
+langchain_community
+gradio
