@@ -119,3 +119,8 @@ Powered by:
 - Voice command logging and history
 
 ---
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
