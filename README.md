@@ -112,7 +112,7 @@ Powered by:
 
 ## 📌 Future Upgrades
 
-- GPT-4 or Claude fallback
+- GPT-4 or Claude 
 - PDF/file summarizer
 - Auto meeting scheduler
 - Task automation memory
